@@ -75,7 +75,7 @@ DOM element, CSS selector, or plugin to mount the URL provider into. This should
 
 ### `companionUrl: null`
 
-URL to an Companion instance.
+URL to a Companion instance.
 
 ### `locale: {}`
 
